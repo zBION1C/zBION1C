@@ -11,12 +11,24 @@ Even though I'm more into reverse engineering, I also know something about web h
 <details>
 <summary>Programming languages i know:</summary>
   
-- Python
-- C
-- SQL
-- Java
-- Javascript
-- Haskell
+  - Python
+  - C
+  - SQL
+  - Java
+  - Javascript
+  - Haskell
+
+</details>
+
+<details>
+<summary>Some tools i am very familiar with:</summary>
+
+  - IDA debugger
+  - Ghidra
+  - GnuDebugger
+  - pwntools
+  - burpsuite
+  - hashcat
 
 </details>
 
