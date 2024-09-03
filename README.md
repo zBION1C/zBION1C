@@ -11,7 +11,7 @@ Even though I'm more into reverse engineering, I also know something about web h
 <details>
 <summary>Programming languages i know:</summary>
 | Rank | Languages  |
-|-----:|------------|
+|------|------------|
 |     1| Python     |
 |     2| C          |
 |     3| SQL        |
