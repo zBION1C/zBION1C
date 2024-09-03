@@ -1,6 +1,8 @@
 ## Hi there 👋
 I'm a very passionate cybersecurity student at Sapienza University of Rome.
+
 I participated to the european [CyberChallenge.it](https://cyberchallenge.it/) program and managed to get to the finals with the Tor Vergata team.
+
 Currently studying and playing CTF :triangular_flag_on_post: competitions with my current team [TheRomanXpl0it](https://theromanxpl0.it/about.html).
 
 I love doing :red_circle: reverse engineering whether it's to analyze malware or to understand how something I don't know works.
