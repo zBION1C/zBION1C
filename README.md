@@ -10,6 +10,7 @@ Even though I'm more into reverse engineering, I also know something about web h
 
 <details>
 <summary>Programming languages i know:</summary>
+  
 | Rank | Languages  |
 |------|------------|
 |     1| Python     |
@@ -18,6 +19,7 @@ Even though I'm more into reverse engineering, I also know something about web h
 |     4| Java       |
 |     5| Javascript |
 |     6| Haskell    |
+
 </details>
 
 <!--
