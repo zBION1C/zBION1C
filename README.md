@@ -32,6 +32,8 @@ Even though I'm more into reverse engineering, I also know something about web h
 
 </details>
 
+If you want, you can check my little blog [here](https://zbion1c.github.io/)
+
 <!--
 **zBION1C/zBION1C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
